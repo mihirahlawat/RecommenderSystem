@@ -1,2 +1,2 @@
 # Adaptive Question Recommendation System
-#### Here is the [Project Report](https://mihirahlawat.github.io/cl/recommender).
+#### Here is the [Project Report](https://github.com/mihirahlawat/RecommenderSystem/blob/master/Project%20Report.pdf).
